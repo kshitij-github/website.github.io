@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>How-to &#8211; MeraBlog</title>
+	<atom:link href="/category/how-to/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sat, 17 Jul 2021 07:27:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>How to Get Started with AI&#8230;</title>
+		<link>/2021/07/17/how-to-get-started-with-ai/</link>
+					<comments>/2021/07/17/how-to-get-started-with-ai/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 17 Jul 2021 07:27:37 +0000</pubDate>
+				<category><![CDATA[How-to]]></category>
+		<guid isPermaLink="false">/?p=41</guid>
+
+					<description><![CDATA[There’s no surprise if you experience certain difficulties studying artificial intelligence. If you get stuck, we suggest looking for a solution on&#160;Kaggle&#160;or posting your questions on specific forums. It’s also important to understand what to focus on and what to do first. 1. Pick a topic you are interested in First, select a topic that [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>There’s no surprise if you experience certain difficulties studying artificial intelligence. If you get stuck, we suggest looking for a solution on&nbsp;<a href="https://www.kaggle.com/">Kaggle</a>&nbsp;or posting your questions on specific forums. It’s also important to understand what to focus on and what to do first.</p>
+
+
+
+<h3><strong>1. Pick a topic you are interested in</strong></h3>
+
+
+
+<p>First, select a topic that is really interesting for you. It will help you stay motivated and involved in the learning process. Focus on a certain problem and look for a solution, instead of just passively reading about everything you can find on the internet.</p>
+
+
+
+<h3><strong>2. Find a quick solution</strong></h3>
+
+
+
+<p>The point is to find any basic solution that covers the problem as much as possible. You need an algorithm that will process data into a form which is understandable for machine learning, train a simple model, give a result, and evaluate its performance.</p>
+
+
+
+<h3><strong>3. Improve your simple solution</strong></h3>
+
+
+
+<p>Once you have a simple basis, it’s time for creativity. Try to improve all the components and evaluate the changes in order to determine whether these improvements are worth your time and effort. For example, sometimes, improving preprocessing and data cleaning gives a higher return on investments than improving a learning model itself.</p>
+
+
+
+<h3><strong>4. Share your solution</strong></h3>
+
+
+
+<p>Write up your solution and share it in order to get feedback. Not only will you get valuable advice from other people, but it will also be the first record in your portfolio.</p>
+
+
+
+<h3><strong>5. Repeat steps 1-4 for different problems</strong></h3>
+
+
+
+<p>Choose different problems and follow the same steps for each task. If you’ve started with tabular data, choose a problem that involves working with images or unstructured text. It’s also important to learn how to formulate problems for machine learning properly. Developers often need to turn some abstract business objectives into concrete problems that fit the specifics of machine learning.</p>
+
+
+
+<h3><strong>6. Complete a Kaggle competition</strong></h3>
+
+
+
+<p>This competition allows you to test your skills, solving the same problems many other engineers are working on. You will be forced to try different approaches, choosing the most effective solutions. This competition can also teach you collaboration, as you can join a big community and communicate with people on the forum, sharing your ideas and learning from others.</p>
+
+
+
+<h3><strong>7. Use machine learning professionally</strong></h3>
+
+
+
+<p>You need to determine what your career goals are and to create your own portfolio. If you are not ready to apply for machine learning jobs, look for more projects that will make your portfolio impressive. Join civic hackathons and look for data-related positions in community service.</p>
+
+
+
+<h3><strong>Conclusion</strong></h3>
+
+
+
+<p>The basic understanding of AI and machine learning becomes more and more valuable in any area of business and any profession. Thanks to various online courses, today you don’t have to go to university to learn this complex and interesting technology. Even if you don’t have any prior experience in engineering, you can learn&nbsp;<a href="https://bigdata-madesimple.com/how-physicists-are-using-artificial-intelligence/">artificial intelligence</a>&nbsp;from home and start applying your knowledge in practice, creating simple machine learning solutions and making first steps towards your new profession.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/07/17/how-to-get-started-with-ai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

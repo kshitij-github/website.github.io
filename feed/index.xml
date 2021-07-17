@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MeraBlog</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sat, 17 Jul 2021 08:17:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>How to Get Started with AI&#8230;</title>
+		<link>/2021/07/17/how-to-get-started-with-ai/</link>
+					<comments>/2021/07/17/how-to-get-started-with-ai/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 17 Jul 2021 07:27:37 +0000</pubDate>
+				<category><![CDATA[How-to]]></category>
+		<guid isPermaLink="false">/?p=41</guid>
+
+					<description><![CDATA[There’s no surprise if you experience certain difficulties studying artificial intelligence. If you get stuck, we suggest looking for a solution on&#160;Kaggle&#160;or posting your questions on specific forums. It’s also important to understand what to focus on and what to do first. 1. Pick a topic you are interested in First, select a topic that [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>There’s no surprise if you experience certain difficulties studying artificial intelligence. If you get stuck, we suggest looking for a solution on&nbsp;<a href="https://www.kaggle.com/">Kaggle</a>&nbsp;or posting your questions on specific forums. It’s also important to understand what to focus on and what to do first.</p>
+
+
+
+<h3><strong>1. Pick a topic you are interested in</strong></h3>
+
+
+
+<p>First, select a topic that is really interesting for you. It will help you stay motivated and involved in the learning process. Focus on a certain problem and look for a solution, instead of just passively reading about everything you can find on the internet.</p>
+
+
+
+<h3><strong>2. Find a quick solution</strong></h3>
+
+
+
+<p>The point is to find any basic solution that covers the problem as much as possible. You need an algorithm that will process data into a form which is understandable for machine learning, train a simple model, give a result, and evaluate its performance.</p>
+
+
+
+<h3><strong>3. Improve your simple solution</strong></h3>
+
+
+
+<p>Once you have a simple basis, it’s time for creativity. Try to improve all the components and evaluate the changes in order to determine whether these improvements are worth your time and effort. For example, sometimes, improving preprocessing and data cleaning gives a higher return on investments than improving a learning model itself.</p>
+
+
+
+<h3><strong>4. Share your solution</strong></h3>
+
+
+
+<p>Write up your solution and share it in order to get feedback. Not only will you get valuable advice from other people, but it will also be the first record in your portfolio.</p>
+
+
+
+<h3><strong>5. Repeat steps 1-4 for different problems</strong></h3>
+
+
+
+<p>Choose different problems and follow the same steps for each task. If you’ve started with tabular data, choose a problem that involves working with images or unstructured text. It’s also important to learn how to formulate problems for machine learning properly. Developers often need to turn some abstract business objectives into concrete problems that fit the specifics of machine learning.</p>
+
+
+
+<h3><strong>6. Complete a Kaggle competition</strong></h3>
+
+
+
+<p>This competition allows you to test your skills, solving the same problems many other engineers are working on. You will be forced to try different approaches, choosing the most effective solutions. This competition can also teach you collaboration, as you can join a big community and communicate with people on the forum, sharing your ideas and learning from others.</p>
+
+
+
+<h3><strong>7. Use machine learning professionally</strong></h3>
+
+
+
+<p>You need to determine what your career goals are and to create your own portfolio. If you are not ready to apply for machine learning jobs, look for more projects that will make your portfolio impressive. Join civic hackathons and look for data-related positions in community service.</p>
+
+
+
+<h3><strong>Conclusion</strong></h3>
+
+
+
+<p>The basic understanding of AI and machine learning becomes more and more valuable in any area of business and any profession. Thanks to various online courses, today you don’t have to go to university to learn this complex and interesting technology. Even if you don’t have any prior experience in engineering, you can learn&nbsp;<a href="https://bigdata-madesimple.com/how-physicists-are-using-artificial-intelligence/">artificial intelligence</a>&nbsp;from home and start applying your knowledge in practice, creating simple machine learning solutions and making first steps towards your new profession.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/07/17/how-to-get-started-with-ai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>What is Artificial Intelligence ?</title>
+		<link>/2021/07/17/what-is-artificial-intelligence/</link>
+					<comments>/2021/07/17/what-is-artificial-intelligence/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 17 Jul 2021 07:06:40 +0000</pubDate>
+				<category><![CDATA[Tech Info]]></category>
+		<guid isPermaLink="false">/?p=29</guid>
+
+					<description><![CDATA[Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include&#160;expert systems, natural language processing, speech recognition and&#160;machine vision. How does AI work? As the hype around AI has accelerated, vendors have been scrambling to promote how their products and services use AI. Often what they refer [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="/wp-content/uploads/2021/07/1200px-What-is-artificial-intelligence-_What_is_artificial_intelligence.jpg" alt="" data-id="30" class="wp-image-30" srcset="/wp-content/uploads/2021/07/1200px-What-is-artificial-intelligence-_What_is_artificial_intelligence.jpg 1024w, /wp-content/uploads/2021/07/1200px-What-is-artificial-intelligence-_What_is_artificial_intelligence-300x169.jpg 300w, /wp-content/uploads/2021/07/1200px-What-is-artificial-intelligence-_What_is_artificial_intelligence-768x432.jpg 768w, /wp-content/uploads/2021/07/1200px-What-is-artificial-intelligence-_What_is_artificial_intelligence-805x452.jpg 805w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+
+
+
+<p>Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include&nbsp;<a href="https://searchenterpriseai.techtarget.com/definition/expert-system">expert systems</a>, natural language processing, speech recognition and&nbsp;<a href="https://searchenterpriseai.techtarget.com/definition/machine-vision-computer-vision">machine vision</a>.</p>
+
+
+
+<h3>How does AI work?</h3>
+
+
+
+<p>As the hype around AI has accelerated, vendors have been scrambling to promote how their products and services use AI. Often what they refer to as AI is simply one component of AI,&nbsp;<a href="https://searchenterpriseai.techtarget.com/feature/Common-sense-in-AI-remains-elusive">such as machine learning</a>. AI requires a foundation of specialized hardware and software for writing and training machine learning algorithms. No one programming language is synonymous with AI, but a few, including Python, R and Java, are popular.</p>
+
+
+
+<p>In general, AI systems work by ingesting large amounts of labeled training data, analyzing the data for correlations and patterns, and using these patterns to make predictions about future states. In this way, a chatbot that is fed examples of text chats can learn to produce lifelike exchanges with people, or an image recognition tool can learn to identify and describe objects in images by reviewing millions of examples.</p>
+
+
+
+<p>AI programming focuses on three cognitive skills: learning, reasoning and self-correction.</p>
+
+
+
+<p><strong>Learning processes.</strong>&nbsp;This aspect of AI programming focuses on acquiring data and creating rules for how to turn the data into actionable information. The rules, which are called&nbsp;<a href="https://whatis.techtarget.com/definition/algorithm">algorithms</a>, provide computing devices with step-by-step instructions for how to complete a specific task.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/07/17/what-is-artificial-intelligence/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>What is BlockChain ?</title>
+		<link>/2021/07/17/what-is-blockchain/</link>
+					<comments>/2021/07/17/what-is-blockchain/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 17 Jul 2021 06:49:28 +0000</pubDate>
+				<category><![CDATA[Tech Info]]></category>
+		<guid isPermaLink="false">/?p=10</guid>
+
+					<description><![CDATA[Blockchain seems complicated, and it definitely can be, but its core concept is really quite simple. A blockchain is a type of database. To be able to understand blockchain, it helps to first understand what a database actually is.&#160; A database is a collection of information that is stored electronically on a computer system. Information, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="791" src="/wp-content/uploads/2021/07/WhatIsBlockchain-1024x791.png" alt="" class="wp-image-15" srcset="/wp-content/uploads/2021/07/WhatIsBlockchain-1024x791.png 1024w, /wp-content/uploads/2021/07/WhatIsBlockchain-300x232.png 300w, /wp-content/uploads/2021/07/WhatIsBlockchain-768x593.png 768w, /wp-content/uploads/2021/07/WhatIsBlockchain.png 1100w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p id="mntl-sc-block_1-0-5">Blockchain seems complicated, and it definitely can be, but its core concept is really quite simple. A blockchain is a type of database. To be able to understand blockchain, it helps to first understand what a database actually is.&nbsp;</p>
+
+
+
+<p id="mntl-sc-block_1-0-7">A database is a collection of information that is stored electronically on a computer system. Information, or data, in databases is typically structured in table format to allow for easier searching and filtering for specific information. What is the difference between someone using a spreadsheet to store information rather than a database?</p>
+
+
+
+<p id="mntl-sc-block_1-0-9">Spreadsheets are designed for one person, or a small group of people, to store and access limited amounts of information. In contrast, a database is designed to house significantly larger amounts of information that can be accessed, filtered, and manipulated quickly and easily by any number of users at once.Large databases achieve this by housing data on servers that are made of powerful computers. These servers can sometimes be built using hundreds or thousands of computers in order to have the computational power and storage capacity necessary for many users to access the database simultaneously. While a spreadsheet or database may be accessible to any number of people, it is often owned by a business and managed by an appointed individual that has complete control over how it works and the data within it.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/07/17/what-is-blockchain/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>/2021/07/17/hello-world/</link>
+					<comments>/2021/07/17/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 17 Jul 2021 06:16:31 +0000</pubDate>
+				<guid isPermaLink="false">http:/?p=1</guid>
+
+					<description><![CDATA[Welcome to my Blog&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to my Blog&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/07/17/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
